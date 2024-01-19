@@ -6,3 +6,4 @@ Source: Conversation with Bing, 29/08/2023
 (1) AzureGold242 (ATG20) ERC20 Token Analytics | Ethereum Mainnet | Bitquery. https://explorer.bitquery.io/ethereum/token/0xe3152d33c08807ba9c301c5110e78b9203137c0c.
 (2) Trades for AzureGold242 token - Bloxy. https://bloxy.info/token_trades/0xe3152d33c08807ba9c301c5110e78b9203137c0c.
 (3) AzureGold242 (ATG20) ERC20 Token Smart Contracts calls | Ethereum Mainnet. https://explorer.bitquery.io/ethereum/token/0xe3152d33c08807ba9c301c5110e78b9203137c0c/calls_contracts.
+http://www.azuregold242.com
